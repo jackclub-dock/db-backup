@@ -139,10 +139,10 @@ commander@^12.1.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-12.1.0.tgz#01423b36f501259fdaac4d0e4d60c96c991585d3"
   integrity sha512-Vw8qHK3bZM9y/P10u3Vib8o/DdkvA2OtPtZvD871QKjy74Wj1WSKFILMPRPSdUSx5RFK1arlJzEtA4PkFgnbuA==
 
-consola@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/consola/-/consola-3.3.1.tgz#e60b4bfcd9e36cd766cc9afe2c93c14fe64c9356"
-  integrity sha512-GyKnPG3/I+a4RtJxgHquJXWr70g9I3c4NT3dvqh0LPHQP2nZFQBOBszb7a5u/pGzqr40AKplQA6UxM1BSynSXg==
+consola@^3.3.3:
+  version "3.3.3"
+  resolved "https://registry.yarnpkg.com/consola/-/consola-3.3.3.tgz#0dd8a2314b0f7bf18a49064138ad685f3346543d"
+  integrity sha512-Qil5KwghMzlqd51UXM0b6fyaGHtOC22scxrwrz4A2882LyUMwQjnvaedN1HAeXzphspQ6CpHkzMAWxBTUruDLg==
 
 content-type@^1.0.2:
   version "1.0.5"
