@@ -31,10 +31,10 @@ agentkeepalive@^3.4.1:
   dependencies:
     humanize-ms "^1.2.1"
 
-ali-oss@^6.21.0:
-  version "6.21.0"
-  resolved "https://registry.yarnpkg.com/ali-oss/-/ali-oss-6.21.0.tgz#48053f563d31e8c92c8fc6eacceb68f919282b6a"
-  integrity sha512-dRvKWO/GJEa6dlsCnvmgHIbU5+yE/SmZsE4kZRGNU7Uotr9uIkQWGqv4szLTxRSxWv3YgL+BZgt+swIgitYGjA==
+ali-oss@^6.22.0:
+  version "6.22.0"
+  resolved "https://registry.yarnpkg.com/ali-oss/-/ali-oss-6.22.0.tgz#084a20b54f2fc0ef607701cb8b2aaf1cfb4019bb"
+  integrity sha512-X8CHo+wsjCBvDaEvuibFOi3SZxiCBZSRUURrXH0upoVwu3SuW3e+PTVK7xw+uN6EyTcAESqrngrQimhp8iBzsQ==
   dependencies:
     address "^1.2.2"
     agentkeepalive "^3.4.1"
