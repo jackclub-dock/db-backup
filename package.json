@@ -9,7 +9,7 @@
   "dependencies": {
     "ali-oss": "^6.23.0",
     "consola": "^3.4.2",
-    "commander": "^14.0.0",
+    "commander": "^14.0.1",
     "cross-env": "^10.0.0",
     "glob": "^11.0.3",
     "dayjs": "^1.11.18",
