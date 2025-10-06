@@ -10,7 +10,7 @@
     "ali-oss": "^6.23.0",
     "consola": "^3.4.2",
     "commander": "^14.0.0",
-    "cross-env": "^10.0.0",
+    "cross-env": "^10.1.0",
     "glob": "^11.0.3",
     "dayjs": "^1.11.18",
     "mysqldump": "^3.2.0"
